@@ -1,6 +1,6 @@
 # hfuzz (HTTP fuzzer)
 
-Simple and dirty http fuzzer for pentesting without dependencies. It's simple enough to extend it with the functionalities you need. 
+Simple and dirty http fuzzer without dependencies. It's simple enough to extend it with the functionalities you need. Very useful in pentesting when you have a pivot machine and you cannot install anything. You simply copy the binary and start fuzzing.
 
 ## Getting Started
 
