@@ -40,7 +40,7 @@ Edit 'hfuzz.c' and change configuration.
                 sprintf(psn, "%s\r\n", psn);
                 sprintf(psn, "%s%s\r\n", psn, post);
 ...
-``
+```
 
 Compile (-DHTTP11 for HTTP1.1):
 
