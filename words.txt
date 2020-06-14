@@ -1,0 +1,10 @@
+test
+prueba
+password
+clave
+passw
+passwd
+root
+guest
+ftp
+12345
